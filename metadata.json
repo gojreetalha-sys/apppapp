@@ -1,0 +1,6 @@
+{
+  "name": "Voice Assistant",
+  "description": "AI-powered voice assistant with Gemini structured intent extraction, reminders, quick calling, web search, and maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

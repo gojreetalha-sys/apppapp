@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Assistant</string>
+    <string name="channel_reminders_name">Assistant Reminders</string>
+    <string name="channel_reminders_desc">Notifications for voice assistant scheduled reminders</string>
+</resources>
